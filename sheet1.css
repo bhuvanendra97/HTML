@@ -1,0 +1,19 @@
+H2
+{
+    color:limegreen;
+    font-family: "Arial";
+    font-size: normal
+}
+.warning{color: red;
+font-weight: bold;
+font-style: italic;
+}
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }

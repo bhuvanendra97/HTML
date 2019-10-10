@@ -1,0 +1,79 @@
+
+header
+{
+    background-color:lightblue;
+    color:black;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Bernard MT';
+    padding: 5px;
+}
+#navl{
+    line-height:30px;
+    background-color:yellowgreen;
+    color: darkmagenta;
+    height: 750px;
+    width: 150px;
+    float: left;
+    padding: 5px;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    width :150px;
+    background-color:white;
+}
+li a
+{
+    display: block;
+    color:black;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+li a:hover
+{
+    background-color:brown;
+    color:white;
+}
+#Section
+{
+    width: 500px;
+    height: 500px;
+    float:left;
+    padding:10px;
+    text-align: justify;
+    color:black;
+    background-image: url("im.jpg");
+    height:700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+span
+{
+    color:blue;
+    font-weight: bold;
+
+}
+#Aside
+{
+    float: right;
+    background-color: goldenrod;
+    width:700px;
+    height: 760px;
+    text-align: justify;
+}
+#fig
+{
+    text-align:center;
+    display: flex;
+}
+#footer
+{
+    background-color: yellowgreen;
+    color: orangered;
+    clear:both;
+    text-align: center;
+    padding: 5px;
+}

@@ -1,0 +1,27 @@
+html
+{
+    background-color:khaki ;
+}
+#heading
+{
+    
+    text-align: center;
+    font-size: 70px;
+    color:greenyellow;
+    scrollbar-3dlight-color: chocolate;
+    
+}
+
+
+
+#foo
+{
+    display: block;
+    background-color: powderblue;
+    opacity: 0.5px;
+}
+#f1
+{
+    color:white;
+    opacity: 1px;
+}

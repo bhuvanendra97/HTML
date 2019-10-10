@@ -1,0 +1,16 @@
+#t
+{
+    text-shadow: 5px 5px 5px red;
+    text-align: center;
+    border-style: double;
+    border: 2px solid;
+    border-color: green;
+    border-radius: 25px;
+    background-color:lightblue;
+}
+#article
+{
+    width: 700px;
+    background-color: aquamarine;
+    text-align: justify;
+}
